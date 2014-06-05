@@ -19,6 +19,6 @@
     <copyright>Copyright 2014</copyright>
   </metadata>
   <files>
-      <file src="bin\Release\SimpleHoneypot.MVC5.dll" target="lib" /> 
+      <file src="bin\Release\SimpleHoneypot.MVC5.dll" target="lib\net45" /> 
   </files>
 </package>
